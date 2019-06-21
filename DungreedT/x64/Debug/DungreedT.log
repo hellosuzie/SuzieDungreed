@@ -1,0 +1,4 @@
+﻿  SUProjectMUnity.cpp
+c:\users\suzie\desktop\dx2d\suproject\suprojectm\roomscene.cpp(224): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  DungreedT.vcxproj -> C:\Users\Suzie\Desktop\DX2D\SUProject\DungreedT\..\Bin\DungreedT.exe
+  DungreedT.vcxproj -> ..\Bin\DungreedT.pdb (Partial PDB)

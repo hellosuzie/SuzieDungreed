@@ -1,0 +1,33 @@
+﻿  FW1Precompiled.cpp
+  FW1FontWrapper.cpp
+  CFW1TextRendererInterface.cpp
+  CFW1TextRenderer.cpp
+  CFW1TextGeometryInterface.cpp
+  CFW1TextGeometry.cpp
+  CFW1StateSaver.cpp
+  CFW1GlyphVertexDrawerInterface.cpp
+  CFW1GlyphVertexDrawer.cpp
+  CFW1GlyphSheetInterface.cpp
+  CFW1GlyphSheet.cpp
+  CFW1GlyphRenderStatesInterface.cpp
+  CFW1GlyphRenderStates.cpp
+c:\users\suzie\desktop\dx2d\suproject\thirdparty\fw1fontwrapper-master\fw1fontwrapper\source\cfw1glyphrenderstates.cpp(682): warning C4456: 'hResult' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\suzie\desktop\dx2d\suproject\thirdparty\fw1fontwrapper-master\fw1fontwrapper\source\cfw1glyphrenderstates.cpp(654): note: 'hResult' 선언을 참조하십시오.
+  CFW1GlyphProviderInterface.cpp
+  CFW1GlyphProvider.cpp
+  CFW1GlyphAtlasInterface.cpp
+  CFW1GlyphAtlas.cpp
+  CFW1FontWrapperInterface.cpp
+  CFW1FontWrapper.cpp
+  CFW1FactoryInterface.cpp
+  CFW1Factory.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CFW1DWriteRenderTargetInterface.cpp
+  CFW1DWriteRenderTarget.cpp
+  CFW1ColorRGBAInterface.cpp
+  CFW1ColorRGBA.cpp
+  코드를 생성하고 있습니다...
+     ..\..\..\Bin\DirectXFontD32.lib 라이브러리 및 ..\..\..\Bin\DirectXFontD32.exp 개체를 생성하고 있습니다.
+  FW1FontWrapper.vcxproj -> C:\Users\Suzie\Desktop\DX2D\SUProject\ThirdParty\FW1FontWrapper-master\FW1FontWrapper\..\..\..\Bin\DirectXFontD32.dll
+  FW1FontWrapper.vcxproj -> ..\..\..\Bin\DirectXFontD32.pdb (Full PDB)

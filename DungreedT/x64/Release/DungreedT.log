@@ -1,0 +1,4 @@
+﻿  '"..\Bin\UNITYMAKER.exe"'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(123,5): error MSB3073: ""..\Bin\UNITYMAKER.exe"
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(123,5): error MSB3073: :VCEnd" 명령이 종료되었습니다(코드: 9009).
